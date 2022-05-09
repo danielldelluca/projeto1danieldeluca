@@ -7,9 +7,9 @@ var
    anos inteiro
 inicio
 
-      Escreva(Em que ano estamos )
+      Escreva("Qual o ano atual? " )
       Leia(ano1)
-      Escreva(Em que ano eu nasci )
+      Escreva("Qual seu ano de nascimento ?" )
       Leia(ano2)
       anos-ano1-ano2
       Escreval(Em, ano1,  você terá, anos,  anos.)
